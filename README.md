@@ -1,4 +1,4 @@
-This is my own challenge to implement a programming language from scratch, FROM EXACTLY NOTHING!
+This is my own challenge to implement a programming language from scratch, FROM EXACTLY NOTHING except TypeScript and Next.js!
 
 # Next.js
 
