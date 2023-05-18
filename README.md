@@ -1,3 +1,7 @@
+This is my own challenge to implement a programming language from scratch, FROM EXACTLY NOTHING!
+
+# Next.js
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
