@@ -1,5 +1,8 @@
 This is my own challenge to implement a programming language from scratch, FROM EXACTLY NOTHING except TypeScript and Next.js!
 
+Example of a piece of code (Thai-based) to list prime numbers:
+<img width="1100" height="501" alt="ไฟล์_000" src="https://github.com/user-attachments/assets/ba877561-64a3-44ac-b281-bba80b8d6703" />
+
 # Next.js
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
